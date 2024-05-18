@@ -17,8 +17,8 @@ struct incometax{
 
 int main() 
 {
-		banner();
- return 0;
+	banner();
+ 	return 0;
 }
 
 void Add_New_Record()
